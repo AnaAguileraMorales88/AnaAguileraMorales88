@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola, soy Ana! </h1>
 <p align="center">
-**Estudiante de programación apasionada por el desarrollo web, el diseño y crear cosas desde cero.**
+Estudiante de programación apasionada por el desarrollo web, el diseño y crear cosas desde cero.
   <br/>
 
   ### 👩‍💻 Sobre mí..
@@ -29,6 +29,7 @@ Actualmente estoy realizando un **bootcamp de desarrollo web** en [Factoría F5]
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </div>
 
