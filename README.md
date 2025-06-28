@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="img/main.jpg" alt="imagen código" width="900" height="500"/>
-</p>
 
 <h1 align="center">¡Hola, soy Ana! </h1>
 <p align="center">
 Estudiante de programación apasionada por el desarrollo web, el diseño y crear cosas desde cero.
   <br/>
 
-  ### 👩‍💻 Sobre mí..
+  ### Sobre mí..
 
 Actualmente estoy realizando un **bootcamp de desarrollo web** en [Factoría F5] dentro del programa **FemCoders**.
 
-🌱 Me apasiona el diseño web, la accesibilidad y crear experiencias digitales significativas.
+Me apasiona el diseño web, la accesibilidad y crear experiencias digitales significativas.
 
-🚀 En este perfil podrás encontrar algunos de mis proyectos y avances como desarrolladora junior.
+ En este perfil podrás encontrar algunos de mis proyectos y avances como desarrolladora junior.
 
 
 ### 🧰 Lenguajes y herramientas que estoy aprendiendo:
@@ -34,12 +31,12 @@ Actualmente estoy realizando un **bootcamp de desarrollo web** en [Factoría F5]
 </div>
 
 
-### 📚 Últimos proyectos:
+### Últimos proyectos:
 - `ducky-duck` 🐤  — Trabajo en equipo. 
 
 
 
-### 🤝 Conéctate conmigo:
+### Conéctate conmigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-aguilera-morales-011b1a238/)
 
