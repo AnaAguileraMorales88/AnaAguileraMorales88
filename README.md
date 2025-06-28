@@ -13,7 +13,7 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
  En este perfil podrás encontrar algunos de mis proyectos y avances como desarrolladora junior.
 
 
-### 🧰 Lenguajes y herramientas que estoy aprendiendo:
+### Lenguajes y herramientas que estoy aprendiendo:
 
 <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
