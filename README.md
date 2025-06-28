@@ -2,9 +2,9 @@
   <img src="img/imagen principal.jpg" alt="imagen código" width="900"/>
 </p>
 
-<h1 align="center">¡Hola, soy Ana! 👩</h1>
+<h1 align="center">¡Hola, soy Ana! </h1>
 <p align="center">
-  Estudiante de programación apasionada por el desarrollo web, el diseño y crear cosas desde cero.
+     **Estudiante de programación apasionada por el desarrollo web, el diseño y crear cosas desde cero.**
   <br/>
 
   ### 👩‍💻 Sobre mí..
