@@ -32,7 +32,8 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 
 
 ### Últimos proyectos:
-- `ducky-duck` 🐤  — Trabajo en equipo. 
+- Proyecto final.
+- DuckStore.
 
 
 
