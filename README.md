@@ -32,8 +32,11 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 
 
 ### Últimos proyectos:
-- Proyecto final.
-- DuckStore.
+- FINAL-PROJECT-frontend-course
+- POJECT-2--DuckStore
+- PROJECT-3-consejerita Public
+- PROYECT-4--Motivario
+- PROJECT-5-Contemporary-Goddesses-Tarot
 
 
 
