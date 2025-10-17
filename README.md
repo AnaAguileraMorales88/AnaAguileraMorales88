@@ -32,13 +32,13 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 
 
 ### Últimos proyectos:
-- FINAL-PROJECT-frontend-course
-- POJECT-2-- DuckStore
-- PROJECT-3-- consejerita Public
-- PROYECT-4-- Motivario
-- PROJECT-5-- Contemporary-Goddesses-Tarot
+- FINAL-PROJECT frontend-course
+- PROJECT 3-- consejerita Public
+- PROYECT 4-- Motivario
+- PROJECT 5-- Contemporary-Goddesses-Tarot
 - Hackaton-- RecuerdaMed-FrontEnd
-- Proyecto-6-- Tres en raya
+- Proyecto 6-- Tres en raya
+- Proyecto 7 -- Biblioteca feminista
 
 
 
