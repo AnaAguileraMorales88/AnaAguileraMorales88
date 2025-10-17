@@ -39,6 +39,7 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 - Hackaton-- RecuerdaMed-FrontEnd
 - Proyecto 6-- Tres en raya
 - Proyecto 7 -- Biblioteca feminista
+- Hackaton - Barcelona Activa
 
 
 
