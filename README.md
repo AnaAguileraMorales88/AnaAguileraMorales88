@@ -38,14 +38,58 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 
 
 ### Últimos proyectos:
-- FINAL PROJECT - Frontend course
-- PROJECT 3 - consejerita Public
-- PROYECT 4 - Motivario
-- PROJECT 5 - Contemporary-Goddesses-Tarot
-- Hackaton - RecuerdaMed-FrontEnd
-- Proyecto 6 - Tres en raya
-- Proyecto 7 - Biblioteca feminista
-- Hackaton - Barcelona Activa
+
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>FINAL PROJECT - Frontend course</b><br>
+      Desarrollo de una SPA completa con interactividad y diseño responsive.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>PROJECT 3 - Consejerita</b><br>
+      Aplicación para consejos diarios con integración de API externa.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>PROJECT 4 - Motivario</b><br>
+      SPA para mostrar tus frases motivadoras favoritas. Crear, editar, leer y eliminar frases.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>PROJECT 5 - Contemporary Goddesses - Tarot</b><br>
+      Proyecto creativo combinando diseño web y tarot interactivo.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>Hackathon - RecuerdaMed</b><br>
+      App de recordatorio de medicación.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>PROJECT 6 - Tres en raya</b><br>
+      Juego clásico implementado con JavaScript.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>PROJECT 7 - Biblioteca feminista</b><br>
+      Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 15px;">
+      <b>Hackathon - Barcelona Activa</b><br>
+      Proyecto colaborativo con enfoque social.<br>
+      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
   
 
 
