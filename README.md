@@ -98,11 +98,11 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 ### Conéctate conmigo:
 
 <a href="https://www.linkedin.com/in/ana-aguilera-morales/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="background-color:#0A66C2; padding:10px; border-radius:50%; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/AnaAguileraMorales88" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color:#333; padding:10px; border-radius:50%; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
+  <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 
