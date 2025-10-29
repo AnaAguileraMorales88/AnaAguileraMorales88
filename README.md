@@ -98,11 +98,11 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 ### Conéctate conmigo:
 
 <a href="https://www.linkedin.com/in/ana-aguilera-morales/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="background-color:#0A66C2; padding:10px; border-radius:50%; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
 </a>
 
 <a href="https://github.com/AnaAguileraMorales88" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color:#333; padding:10px; border-radius:50%; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);"/>
 </a>
 
 
