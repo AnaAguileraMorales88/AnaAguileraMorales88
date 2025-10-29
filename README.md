@@ -35,57 +35,59 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </div>
+  
 
 
 ### Últimos proyectos:
+
 
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>FINAL PROJECT - Frontend course</b><br>
       Desarrollo de una SPA completa con interactividad y diseño responsive.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/FINAL-PROJECT-frontend-course" target="_blank">Ver proyecto</a>
     </td>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 3 - Consejerita</b><br>
       Aplicación para consejos diarios con integración de API externa.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/PROJECT-3-consejerita" target="_blank">Ver proyecto</a>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 4 - Motivario</b><br>
       SPA para mostrar tus frases motivadoras favoritas. Crear, editar, leer y eliminar frases.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/PROYECT-4--Motivario" target="_blank">Ver proyecto</a>
     </td>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 5 - Contemporary Goddesses - Tarot</b><br>
       Proyecto creativo combinando diseño web y tarot interactivo.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/PROJECT-5-Contemporary-Goddesses-Tarot-" target="_blank">Ver proyecto</a>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>Hackathon - RecuerdaMed</b><br>
       App de recordatorio de medicación.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank">Ver proyecto</a>
     </td>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 6 - Tres en raya</b><br>
       Juego clásico implementado con JavaScript.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank">Ver proyecto</a>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 7 - Biblioteca feminista</b><br>
       Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank">Ver proyecto</a>
     </td>
     <td style="border: 1px solid #ddd; padding: 15px;">
       <b>Hackathon - Barcelona Activa</b><br>
       Proyecto colaborativo con enfoque social.<br>
-      <a href="TU_LINK_DEL_PROYECTO" target="_blank">Ver proyecto</a>
+      <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank">Ver proyecto</a>
     </td>
   </tr>
 </table>
@@ -96,8 +98,13 @@ Me apasiona el diseño web, la accesibilidad y crear experiencias digitales sign
 ### Conéctate conmigo:
 
 <a href="https://www.linkedin.com/in/ana-aguilera-morales/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
+
+<a href="https://github.com/AnaAguileraMorales88" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
 
 
 
