@@ -45,18 +45,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>FINAL PROJECT - Frontend course</b><br>
-      Desarrollo de una SPA completa con interactividad y diseño responsive.<br>
-      <a href="https://github.com/AnaAguileraMorales88/FINAL-PROJECT-frontend-course" target="_blank">Ver proyecto</a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>PROJECT 3 - Consejerita</b><br>
-      Aplicación para consejos diarios con integración de API externa.<br>
-      <a href="https://github.com/AnaAguileraMorales88/PROJECT-3-consejerita" target="_blank">Ver proyecto</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 15px;">
       <b>PROJECT 4 - Motivario</b><br>
       SPA para mostrar tus frases motivadoras favoritas. Crear, editar, leer y eliminar frases.<br>
       <a href="https://github.com/AnaAguileraMorales88/PROYECT-4--Motivario" target="_blank">Ver proyecto</a>
