@@ -35,6 +35,9 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" title="Testing (Jest)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" title="VSCode"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="50" height="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/n8n.svg" alt="n8n" width="50" height="50" title="n8n"/>
+
 </div>
 
   
