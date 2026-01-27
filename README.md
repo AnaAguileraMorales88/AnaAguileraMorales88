@@ -45,41 +45,41 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 ### Últimos proyectos:
 
 
-<table style="width:100%; border-collapse: collapse; text-align:center;">
+<table style="width:100%; border-collapse: collapse; text-align:center; table-layout: fixed;">
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>Nona</b><br>
-      Sitio web oficial del cortometraje NONA , una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.<br>
-      <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>Nona</b><br><br>
+      Sitio web oficial del cortometraje NONA, una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.<br><br>
+      <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>Club Nostalgiat</b><br>
-      Plataforma para gestionar y visualizar proyectos audiovisuales.<br>
-      <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>Club Nostalgia</b><br><br>
+      Plataforma para gestionar y visualizar proyectos audiovisuales.<br><br>
+      <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>Hackathon - RecuerdaMed</b><br>
-      App de recordatorio de medicación.<br>
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>Hackathon - RecuerdaMed</b><br><br>
+      App de recordatorio de medicación.<br><br>
+      <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>PROJECT 6 - Tres en raya</b><br>
-      Juego clásico implementado con JavaScript.<br>
-      <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>PROJECT 6 - Tres en raya</b><br><br>
+      Juego clásico implementado con JavaScript.<br><br>
+      <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>PROJECT 7 - Biblioteca feminista</b><br>
-      Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.<br>
-      <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>PROJECT 7 - Biblioteca feminista</b><br><br>
+      Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.<br><br>
+      <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>Hackathon - Barcelona Activa</b><br>
-      Proyecto colaborativo con enfoque social.<br>
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank">Ver proyecto</a>
+    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
+      <b>Hackathon - Barcelona Activa</b><br><br>
+      Proyecto colaborativo con enfoque social.<br><br>
+      <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
     </td>
   </tr>
 </table>
