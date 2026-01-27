@@ -45,41 +45,65 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 ### Últimos proyectos:
 
 
-<table style="width:100%; border-collapse: collapse; text-align:center; table-layout: fixed;">
+<table>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>Nona</b><br><br>
-      Sitio web oficial del cortometraje NONA, una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.<br><br>
-      <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">Nona</h3>
+      <p align="center">Sitio web oficial del cortometraje NONA, una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>Club Nostalgia</b><br><br>
-      Plataforma para gestionar y visualizar proyectos audiovisuales.<br><br>
-      <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">Club Nostalgia</h3>
+      <p align="center">Plataforma para gestionar y visualizar proyectos audiovisuales.</p>
+      <p align="center">
+        <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>Hackathon - RecuerdaMed</b><br><br>
-      App de recordatorio de medicación.<br><br>
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">Hackathon - RecuerdaMed</h3>
+      <p align="center">App de recordatorio de medicación.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>PROJECT 6 - Tres en raya</b><br><br>
-      Juego clásico implementado con JavaScript.<br><br>
-      <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">PROJECT 6 - Tres en raya</h3>
+      <p align="center">Juego clásico implementado con JavaScript.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>PROJECT 7 - Biblioteca feminista</b><br><br>
-      Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.<br><br>
-      <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">PROJECT 7 - Biblioteca feminista</h3>
+      <p align="center">Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
-    <td style="border: 1px solid #ddd; padding: 15px; width: 50%; vertical-align: top;">
-      <b>Hackathon - Barcelona Activa</b><br><br>
-      Proyecto colaborativo con enfoque social.<br><br>
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background-color 0.3s;">Ver proyecto</a>
+    <td width="50%" valign="top">
+      <h3 align="center">Hackathon - Barcelona Activa</h3>
+      <p align="center">Proyecto colaborativo con enfoque social.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
