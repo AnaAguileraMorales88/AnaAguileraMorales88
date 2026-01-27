@@ -48,14 +48,14 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>PROJECT 4 - Motivario</b><br>
-      SPA para mostrar tus frases motivadoras favoritas. Crear, editar, leer y eliminar frases.<br>
-      <a href="https://github.com/AnaAguileraMorales88/PROYECT-4--Motivario" target="_blank">Ver proyecto</a>
+      <b>Nona</b><br>
+      Sitio web oficial del cortometraje NONA , una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.<br>
+      <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">Ver proyecto</a>
     </td>
     <td style="border: 1px solid #ddd; padding: 15px;">
-      <b>PROJECT 5 - Contemporary Goddesses - Tarot</b><br>
-      Proyecto creativo combinando diseño web y tarot interactivo.<br>
-      <a href="https://github.com/AnaAguileraMorales88/PROJECT-5-Contemporary-Goddesses-Tarot-" target="_blank">Ver proyecto</a>
+      <b>Club Nostalgiat</b><br>
+      Plataforma para gestionar y visualizar proyectos audiovisuales.<br>
+      <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank">Ver proyecto</a>
     </td>
   </tr>
   <tr>
