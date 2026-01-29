@@ -46,7 +46,7 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Nona</h3>
-      <p align="center">Sitio web oficial del cortometraje NONA, una película sobre el desarraigo.</p>
+      <p align="center">Sitio web oficial del cortometraje NONA.</p>
       <p align="center">
         <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
