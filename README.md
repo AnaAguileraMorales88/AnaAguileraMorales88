@@ -49,7 +49,7 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Nona</h3>
-      <p align="center">Sitio web oficial del cortometraje NONA, una película sobre el desarraigo, la identidad y la búsqueda de pertenencia. Dos generaciones, dos historias cruzadas por la nostalgia donde el hogar, quizás, no sea un lugar al que se puede volver.</p>
+      <p align="center">Sitio web oficial del cortometraje NONA, una película sobre el desarraigo.</p>
       <p align="center">
         <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
@@ -76,27 +76,7 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">PROJECT 6 - Tres en raya</h3>
-      <p align="center">Juego clásico implementado con JavaScript.</p>
-      <p align="center">
-        <a href="https://github.com/AnaAguileraMorales88/PROYECTO-6-Tic_Tac_Toe" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">PROJECT 7 - Biblioteca feminista</h3>
-      <p align="center">Aplicación Java de consola para gestionar libros, autores y géneros, con enfoque feminista.</p>
-      <p align="center">
-        <a href="https://github.com/AnaAguileraMorales88/P7_FeministLibrary" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+        <td width="50%" valign="top">
       <h3 align="center">Hackathon - Barcelona Activa</h3>
       <p align="center">Proyecto colaborativo con enfoque social.</p>
       <p align="center">
@@ -105,6 +85,27 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">La Quinta Pata</h3>
+      <p align="center">Plataforma web creada para catalogar y difundir registros audiovisuales que narran experiencias de migrantes.</p>
+      <p align="center">
+        <a href="https://github.com/orgs/La-Quinta-Pata/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CodeCrafters</h3>
+      <p align="center">Plataforma web creada para organizar eventos tecnológicos online y presenciales.</p>
+      <p align="center">
+        <a href="https://github.com/orgs/TechMeetP9/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
+
   </tr>
 </table>
 
