@@ -41,6 +41,7 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 
   
 ### Últimos proyectos:
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -52,7 +53,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">Club Nostalgia</h3>
       <p align="center">Plataforma para gestionar y visualizar proyectos audiovisuales.</p>
@@ -63,7 +63,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Hackathon - RecuerdaMed</h3>
@@ -74,7 +73,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">Hackathon - Barcelona Activa</h3>
       <p align="center">Proyecto colaborativo con enfoque social.</p>
@@ -85,24 +83,16 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">La Quinta Pata</h3>
-      <p align="center">
-        Plataforma web creada para catalogar y difundir registros audiovisuales que narran experiencias de migrantes.
-      </p>
+      <p align="center">Plataforma web creada para catalogar y difundir registros audiovisuales que narran experiencias de migrantes.</p>
       <p align="center">
         <a href="https://github.com/orgs/La-Quinta-Pata/repositories" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
         </a>
       </p>
     </td>
-
-    <td width="50%"></td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">CodeCrafters</h3>
       <p align="center">Plataforma web creada para organizar eventos tecnológicos online y presenciales.</p>
@@ -112,8 +102,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
         </a>
       </p>
     </td>
-
-    <td width="50%"></td>
   </tr>
 </table>
 
