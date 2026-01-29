@@ -40,49 +40,82 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 </section>
 
   
-
-
 ### Últimos proyectos:
-<tr>
-  <td width="50%" valign="top">
-    <h3 align="center">Hackathon - RecuerdaMed</h3>
-    <p align="center">App de recordatorio de medicación.</p>
-    <p align="center">
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge"/>
-      </a>
-    </p>
-  </td>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Nona</h3>
+      <p align="center">Sitio web oficial del cortometraje NONA, una película sobre el desarraigo.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Nona" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
 
-  <td width="50%" valign="top">
-    <h3 align="center">Hackathon - Barcelona Activa</h3>
-    <p align="center">Proyecto colaborativo con enfoque social.</p>
-    <p align="center">
-      <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge"/>
-      </a>
-    </p>
-  </td>
-</tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Club Nostalgia</h3>
+      <p align="center">Plataforma para gestionar y visualizar proyectos audiovisuales.</p>
+      <p align="center">
+        <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-<tr>
-  <td width="50%" valign="top">
-    <h3 align="center">La Quinta Pata</h3>
-    <p align="center">
-      Plataforma web creada para catalogar y difundir registros audiovisuales que narran experiencias de migrantes.
-    </p>
-    <p align="center">
-      <a href="https://github.com/orgs/La-Quinta-Pata/repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge"/>
-      </a>
-    </p>
-  </td>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Hackathon - RecuerdaMed</h3>
+      <p align="center">App de recordatorio de medicación.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Hackaton-RecuerdaMed-FrontEnd" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
 
-  <td width="50%"></td>
-</tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Hackathon - Barcelona Activa</h3>
+      <p align="center">Proyecto colaborativo con enfoque social.</p>
+      <p align="center">
+        <a href="https://github.com/AnaAguileraMorales88/Hackaton" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">La Quinta Pata</h3>
+      <p align="center">
+        Plataforma web creada para catalogar y difundir registros audiovisuales que narran experiencias de migrantes.
+      </p>
+      <p align="center">
+        <a href="https://github.com/orgs/La-Quinta-Pata/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
 
-  
+    <td width="50%"></td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CodeCrafters</h3>
+      <p align="center">Plataforma web creada para organizar eventos tecnológicos online y presenciales.</p>
+      <p align="center">
+        <a href="https://github.com/orgs/TechMeetP9/repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
+        </a>
+      </p>
+    </td>
+
+    <td width="50%"></td>
+  </tr>
+</table>
 
 
 ### Conéctate conmigo:
