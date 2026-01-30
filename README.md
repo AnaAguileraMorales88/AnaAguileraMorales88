@@ -55,7 +55,7 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Club Nostalgia</h3>
-      <p align="center">Plataforma para gestionar y visualizar proyectos audiovisuales.</p>
+      <p align="center">Plataforma para gestionar y visualizar proyectos.</p>
       <p align="center">
         <a href="https://github.com/orgs/ClubNostalgia/repositories" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Proyecto-2563eb?style=for-the-badge" alt="Ver proyecto"/>
