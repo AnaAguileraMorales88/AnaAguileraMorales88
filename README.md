@@ -12,8 +12,6 @@ En este perfil encontrarás algunos de mis proyectos y avances como desarrollado
 
 ### Mis habilidades y tecnologías.
 
-### 🛠️ Tecnologías
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vue,bootstrap,tailwind,java,nodejs,express,spring,mysql,postgres,git,github,postman,axios,jest,vscode,figma,docker" />
 </p>
